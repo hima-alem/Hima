@@ -1,10 +1,11 @@
 <!-- Header Banner / Title with Animated Typing Effect -->
 <h1 align="center">
   Hi there 👋, I'm Hima
+  </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=38BDF8&center=false&vCenter=true&width=450&lines=Game+Developer;Unreal+Engine+5+Specialist;C+++%26+Blueprint+Coder;Gameplay+Architect" alt="Typing SVG" />
   </a>
-</h1>
+
 
 <p align="center">
   <em>Building immersive worlds, advanced AI systems, and robust gameplay mechanics in Unreal Engine 5.</em>
